@@ -16,7 +16,7 @@ body {
 
 }
 
-.container {
+.hero-container {
     display: flex;
     width: 100%;
     min-height: calc(100vh - 50px); /* Adjust this value based on the height of .attribution */
