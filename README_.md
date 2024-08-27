@@ -5,17 +5,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+
    - [Screenshot](#screenshot)
    - [Links](#links)
 
 - [My process](#my-process)
+
    - [Built with](#built-with)
    - [What I learned](#what-i-learned)
-   - [Continued development](#continued-development)
-   - [Useful resources](#useful-resources)
 
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -23,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -35,8 +34,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Kharmannn/frontendmentor_qr-code)
+- Live Site URL: [Live Url Production](https://akram-frontendmentor-qr-code-two.vercel.app)
 
 ## My process
 
@@ -51,16 +50,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 <p>I'm proud of I learned something new<p>
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
 - Frontend Mentor - [@Kharmannn](https://www.frontendmentor.io/profile/Kharmannn)
 - Twitter - [@kharmannn94](https://x.com/kharmannn94)
-
-## Acknowledgments
